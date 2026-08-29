@@ -2,25 +2,25 @@
 
 ### AI-Powered End-to-End Recruitment & Interview Automation Platform
 
-HireWise AI is an AI-powered recruitment platform that automates the candidate screening and interview process — from **candidate application and resume evaluation to AI-based voice interviews, human final-round scheduling, and candidate assessment**.
+HireWise AI is an AI powered recruitment platform that automates the candidate screening and interview process from **candidate application and resume evaluation to AI-based voice interviews, human final round scheduling, and candidate assessment**.
 
-The platform is designed to reduce manual recruiter effort, standardize candidate evaluation, and provide a structured, data-driven hiring workflow — blending AI automation with human decision-making at the final stage.
+The platform is designed to reduce manual recruiter effort, standardize candidate evaluation, and provide a structured, data driven hiring workflow blending AI automation with human decision making at the final stage.
 
 ---
 
 ## 🎙️ The Core: A Real AI Voice Interview Agent
 
-> **The heart of HireWise AI is not a form or a dashboard — it's a live, voice-based AI interviewer.**
+> **The heart of HireWise AI is not a form or a dashboard it's a live, voice-based AI interviewer.**
 
-While the surrounding pipeline (screening, scheduling, results) makes the product usable end-to-end, the actual technical crux of this project is the **real-time conversational voice agent** that conducts Round 2:
+While the surrounding pipeline (screening, scheduling, results) makes the product usable end to end, the actual technical crux of this project is the **real time conversational voice agent** that conducts Round 2:
 
-* Candidates don't fill out a text questionnaire — they **talk to an AI interviewer over voice**, in real time.
-* The agent asks role-specific questions, **listens, understands, and responds dynamically** — not a fixed script.
-* Built on **Vapi AI** for low-latency speech-to-speech interaction, so the conversation feels like a real phone/video screening call rather than a chatbot.
-* The agent carries context per candidate (JD, resume, prior answers) so follow-ups feel natural rather than generic.
-* The full spoken conversation is captured and turned into a transcript, which then drives the AI evaluation — meaning **the voice interaction itself is the primary data source** for the entire downstream evaluation and hiring decision.
+* Candidates don't fill out a text questionnaire they **talk to an AI interviewer over voice**, in real time.
+* The agent asks role specific questions, **listens, understands, and responds dynamically** not a fixed script.
+* Built on **Vapi AI** for low-latency speech to speech interaction, so the conversation feels like a real phone/video screening call rather than a chatbot.
+* The agent carries context per candidate (JD, resume, prior answers) so follow ups feel natural rather than generic.
+* The full spoken conversation is captured and turned into a transcript, which then drives the AI evaluation meaning **the voice interaction itself is the primary data source** for the entire downstream evaluation and hiring decision.
 
-Everything else in the platform — screening, links, scheduling, results — exists to get candidates *into* this voice interview and to make sense of what happens *during* it.
+Everything else in the platform screening, links, scheduling, results exists to get candidates *into* this voice interview and to make sense of what happens *during* it.
 
 ### How the Voice Call Actually Works
 
