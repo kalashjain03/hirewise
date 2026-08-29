@@ -37,20 +37,20 @@ Candidate clicks unique interview link
         and explains the interview format
                 ↓
    ┌──────────────────────────────────┐
-   │   Turn-based live conversation    │
-   │                                    │
-   │  AI asks question (speech)        │
-   │        ↓                          │
-   │  Candidate answers (speech)       │
-   │        ↓                          │
-   │  Speech → Text (real-time ASR)    │
-   │        ↓                          │
-   │  LLM interprets answer, decides   │
-   │  next question / follow-up        │
-   │        ↓                          │
-   │  Text → Speech (AI voice reply)   │
-   │        ↓                          │
-   │  Repeat until interview complete  │
+   │   Turn-based live conversation   │
+   │                                  │
+   │  AI asks question (speech)       │
+   │        ↓                         │
+   │  Candidate answers (speech)      │
+   │        ↓                         │
+   │  Speech → Text (real-time ASR)   │
+   │        ↓                         │
+   │  LLM interprets answer, decides  │
+   │  next question / follow-up       │
+   │        ↓                         │
+   │  Text → Speech (AI voice reply)  │
+   │        ↓                         │
+   │  Repeat until interview complete │
    └──────────────────────────────────┘
                 ↓
          Call ends automatically
